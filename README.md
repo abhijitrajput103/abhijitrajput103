@@ -32,10 +32,10 @@ Passion: UI Animations + Clean UX
 
 ## 📊 Dev Dashboard
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhijitrajput103&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitrajput103&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
@@ -49,9 +49,9 @@ Passion: UI Animations + Clean UX
 
 ## 🐍 Contribution Matrix
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/abhijitrajput103/abhijitrajput103/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 
 ---
 
@@ -63,21 +63,7 @@ Passion: UI Animations + Clean UX
 
 ---
 
-## 🚀 Featured Projects
 
-### 🧠 AI Dashboard
-
-* 📊 Data visualization + charts
-* 🤖 AI insights
-* ⚡ React + FastAPI
-
-### 🌐 Portfolio Website
-
-* 🎨 Modern UI + animations
-* ⚡ Next.js + Tailwind
-* 🌍 Fully responsive
-
----
 
 ## 🌍 Connect With Me
 
