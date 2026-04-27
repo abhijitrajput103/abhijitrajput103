@@ -30,14 +30,6 @@ Passion: UI Animations + Clean UX
 
 ---
 
-## 📊 Dev Dashboard
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhijitrajput103&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitrajput103&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
----
 
 ## 🔥 Streak Engine
 
@@ -47,44 +39,12 @@ Passion: UI Animations + Clean UX
 
 ---
 
-## 🐍 Contribution Matrix
-
-<!-- <p align="center">
-<img src="https://github.com/abhijitrajput103/abhijitrajput103/blob/output/github-contribution-grid-snake.svg" />
-</p> -->
-
----
-
-## ⚡ Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijitrajput103&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-
-
 ## 🌍 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhijit-kumar-b73512332/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://abhijitrajput103.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
-
----
-
-
-## ⚡ Dev Loop
-
-```javascript
-while(true){
-  learn();
-  build();
-  ship();
-  repeat();
-}
-```
 
 ---
 
