@@ -10,18 +10,6 @@
 
 ---
 
-## 🧠 About Me
-
-```yaml
-Name: Abhijit Kumar
-Role: Full Stack Developer
-Stack: MERN + Next.js
-Focus: AI + Scalable Systems
-Passion: UI Animations + Clean UX
-```
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
